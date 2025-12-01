@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn
+pydantic
+httpx
+networkx
+python-dotenv
+neo4j
+python-multipart
+sqlalchemy
+python-jose[cryptography]
+bcrypt
+
